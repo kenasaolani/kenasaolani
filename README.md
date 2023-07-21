@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kenasaolani
-- 👀 I’m interested in java application development 
-- 🌱 I’m currently learning algorithms 
-- 💞️ I’m looking to collaborate on any project 
+- 👋 Hi, I’m @kenasaolani.
+- 👀 I’m interested in interactive website development. 
+- 🌱 I’m currently learning React. 
+- 💞️ I’m looking to collaborate on any project. 
 - 📫 How to reach me email: kenasaolani@gmail.com
 
 <!---
